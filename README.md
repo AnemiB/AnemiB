@@ -45,7 +45,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ![Free_iMac_Mockup_4](https://github.com/user-attachments/assets/acb0d902-1ea1-42c7-9656-d62919f0bb85)
 
-###  Term 1: 🌟 [Character Impact](https://github.com/AnemiB/Character-Impact) 🌟
+##  Term 1: 🌟 [Character Impact](https://github.com/AnemiB/Character-Impact) 🌟
 - **Description:**
   <p>Character Impact is a web application that helps Genshin Impact players view and compare character data, providing an intuitive way to access insights on game characters.</p>
 
@@ -69,7 +69,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ![Free_iMac_Mockup_11](https://github.com/user-attachments/assets/5e3578a0-fa77-46ce-a53c-41aacba7c8f6)
 
-### Term 2: 🌿 [Botania](https://github.com/Sean-D-231121/Group_Project_DV200_Term_2) 🌿
+## Term 2: 🌿 [Botania](https://github.com/Sean-D-231121/Group_Project_DV200_Term_2) 🌿
 - **Description:**
   <p>Botania is a web app for plant lovers, featuring a plant product shop, personalized care schedules, and appointment booking for specific plant needs.</p>
 
@@ -93,7 +93,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ![Free_iMac_Mockup_3](https://github.com/user-attachments/assets/2350c991-4585-4d83-aabc-df86247660a6)
 
-### Term 3: 🏛 [HistoryScapers](https://github.com/AnemiB/HistoryScapers) 🏛
+## Term 3: 🏛 [HistoryScapers](https://github.com/AnemiB/HistoryScapers) 🏛
 - **Description:**
   <p>HistoryScapers is a Q&A platform where history enthusiasts can post questions, answer, comment, and like historical discussions.</p>
 
@@ -117,7 +117,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ![iMac_Mockup_1](https://github.com/user-attachments/assets/c7f6f0a3-47fb-4324-8e4c-37e667fa3383)
 
-### Term 4: 🥪 [SaveAMeal](https://github.com/AnemiB/SaveAMeal) 🥪
+## Term 4: 🥪 [SaveAMeal](https://github.com/AnemiB/SaveAMeal) 🥪
 - **Description:**
   <p>SaveAMeal is a budget-friendly platform offering nutritious meal solutions for South African families needing low cost and easy to prepare meals.</p>
 
