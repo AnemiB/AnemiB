@@ -10,7 +10,7 @@
 <div align="center">
   
 ## 🫧 About Me 🫧
-I’m a second-year **Interactive Development (DV)** student also majoring in **User Experience (UX)** at **Open Window**. I’m passionate about using design and technology to build impactful, user-centered digital experiences.
+I’m a third-year **Interactive Development (DV)** student also majoring in **User Experience (UX)** at **Open Window**. I’m passionate about using design and technology to build impactful, user-centered digital experiences.
 
 </br>
 
