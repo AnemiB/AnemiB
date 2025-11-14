@@ -1,4 +1,5 @@
-  # 🌺 Hi there! I’m Anemi Breytenbach 🌺
+<div align="center">
+# 🌺 Hi there! I’m Anemi Breytenbach 🌺
 
 </br>
 </div>
