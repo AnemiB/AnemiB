@@ -1,6 +1,4 @@
-<img width="2906" height="2032" alt="image" src="https://github.com/user-attachments/assets/50b2b937-d63f-41f1-ac1b-747d2e134a36" /><div align="center">
-  
-# 🌺 Hi there! I’m Anemi Breytenbach 🌺
+  # 🌺 Hi there! I’m Anemi Breytenbach 🌺
 
 </br>
 </div>
