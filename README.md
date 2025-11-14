@@ -45,25 +45,19 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ![Free_iMac_Mockup_4](https://github.com/user-attachments/assets/acb0d902-1ea1-42c7-9656-d62919f0bb85)
 
-## Term 1: 🌸 [Aureum Elegance (Fragrance WMS)](https://github.com/Tsebo200/Aureum-Elegance-Frontend) 🌸
-- **Description:**
-  <p>Aureum Elegance is a full-stack warehouse management system tailored to the perfume industry. It consolidates inventory, batch tracking, production recipes and analytics into a polished desktop/web app (React + TypeScript frontend, .NET Core backend, PostgreSQL) with Electron packaging for in-warehouse use.</p>
+## Term 1: 🌟 [Aureum Elegance](https://github.com/Tsebo200/Aureum-Elegance-Frontend) 🌟
+- **Description:**  
+  Aureum Elegance is a full-stack warehouse management system tailored for the perfume industry. It centralises inventory, batch tracking, production workflows and analytics into a polished desktop/web app.
 
-</br>
-
-- **Problem Statement:**
-  <p>Perfume warehousing presents unique challenges — fragile packaging, perishable fragrance ingredients and complex batch/expiry tracking — while teams often rely on fragmented tools that reduce traceability and slow production. Aureum Elegance centralizes stock, recipes, deliveries and alerts to enforce batch tracking, expiry management and role-based controls, improving traceability and reducing waste.</p>
-
-</br>
+- **Problem Statement:**  
+  Perfume warehouses face fragile packaging, perishable ingredients and complex batch/expiry tracking. Teams often rely on fragmented tools that hurt traceability and slow production. Aureum Elegance centralises stock, production recipes, deliveries, and alerts to reduce waste, improve traceability and speed up operations.
 
 - **Highlights:**
-  <ul>
-    <li><strong>Batch tracking & expiry logic:</strong> Lot numbers and expiry-aware workflows to reduce recalls and waste.</li>
-    <li><strong>Real-time low-stock alerts:</strong> SignalR-powered notifications for instant operational response.</li>
-    <li><strong>Production workflow:</strong> Fragrance recipes → produce batches → finished product tracking with ingredient & packaging management.</li>
-    <li><strong>Secure role-based access:</strong> JWT auth with admin/employee role policies and built-in 2FA (no external provider).</li>
-    <li><strong>Cross-platform desktop:</strong> Electron packaging with auto-update support for warehouse deployments.</li>
-  </ul>
+  - Batch tracking with expiry logic and lot management to reduce recalls and waste.  
+  - Real-time low-stock alerts (SignalR) for immediate operational awareness.  
+  - Full production workflow: create fragrance recipes → produce batches → finished product tracking.  
+  - JWT role-based auth + built-in 2FA, API documented with Swagger.  
+  - Cross-platform desktop packaging with Electron and auto-update capability.
 
 </br>
 
@@ -71,23 +65,8 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ![Free_iMac_Mockup_11](https://github.com/user-attachments/assets/5e3578a0-fa77-46ce-a53c-41aacba7c8f6)
 
-## Term 2: 🌿 [Botania](https://github.com/Sean-D-231121/Group_Project_DV200_Term_2) 🌿
-- **Description:**
-  <p>Botania is a web app for plant lovers, featuring a plant product shop, personalized care schedules, and appointment booking for specific plant needs.</p>
-
-</br>
-
-- **Problem Statement:**
-  <p>Plant enthusiasts often lack the guidance to properly care for their plants. Botania solves this with an integrated shopping and care management platform.</p>
-
-</br>
-
-- **Highlights:**
-  <ul>
-    <li><strong>Usability:</strong> Easy-to-navigate features for plant care and shopping.</li>
-    <li><strong>Community Building:</strong> Shared space for plant care advice and discussions.</li>
-    <li><strong>Innovation:</strong> Data-driven analytics and smart device compatibility.</li>
-  </ul>
+## Term 2: 🔸 (No project assigned)
+- **Note:** Term 2 currently has no project listed for this profile — I left this slot intentionally so your term numbering remains consistent with your course structure. If you want to add another project here, I’ll slot it in the same format as the others.
 
 </br>
 
@@ -95,25 +74,18 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ![Free_iMac_Mockup_3](https://github.com/user-attachments/assets/2350c991-4585-4d83-aabc-df86247660a6)
 
-## Term 3: 🍷 [SipStop](https://github.com/AnemiB/SipStop) 🍷
-- **Description:**
-  <p>SipStop is a lightweight, empathetic sobriety companion app built with Expo (React Native + TypeScript) and Firebase. It helps users track sober streaks, log drinks quickly, reflect with mood-tagged notes, and connect with a small supportive community.</p>
+## Term 3: 🫗 [SipStop](https://github.com/AnemiB/SipStop) 🫗
+- **Description:**  
+  SipStop is a compassionate sobriety companion app built with Expo (React Native + TypeScript) and Firebase. It helps users track sober streaks, log drink events quickly, reflect with mood-tagged notes, and connect with a small support community.
 
-</br>
-
-- **Problem Statement:**
-  <p>People trying to reduce alcohol intake need a simple, non-judgmental tool that fits into daily life — faster than a journal, warmer than a timer, and more social than a solitary tracker. Many existing solutions feel heavy or clinical; SipStop prioritizes instant logging, mood-based reflection and community encouragement so users can build sustainable habits through lightweight daily interactions.</p>
-
-</br>
+- **Problem Statement:**  
+  People reducing alcohol intake need a low-friction, non-judgmental tool to log events, reflect on moods and access encouragement. Heavy or clinical trackers can demotivate; SipStop provides fast logging, dynamic encouragement and community support to form sustainable habits.
 
 - **Highlights:**
-  <ul>
-    <li><strong>Fast logging:</strong> Low-friction drink events and note creation for on-the-go use.</li>
-    <li><strong>Sober time tracker:</strong> Time-since-last-drink display with adaptive encouragement messages.</li>
-    <li><strong>Mood-tagged reflection:</strong> SVG emoji mood tags for expressive notes and personal reflection.</li>
-    <li><strong>Community feed:</strong> Browse public notes and leave supportive comments.</li>
-    <li><strong>Realtime updates:</strong> Firebase Firestore listeners ensure instant data sync.</li>
-  </ul>
+  - Fast drink logging and a sober-time tracker (time since last drink).  
+  - Mood-tagged reflection notes using SVG icons and a dynamic encouragement engine.  
+  - Community feed for public notes and comments.  
+  - Real-time updates with Firestore listeners; built with Expo for cross-platform mobile use.
 
 </br>
 
@@ -121,43 +93,36 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ![iMac_Mockup_1](https://github.com/user-attachments/assets/c7f6f0a3-47fb-4324-8e4c-37e667fa3383)
 
-## Term 4: 🧠 [Nerdy Nibbles](https://github.com/AnemiB/Nerdy-Nibbles) 🧠
-- **Description:**
-  <p>Nerdy Nibbles is an AI-first learning app for food fundamentals. It delivers AI-generated lessons and quizzes on demand, plus a built-in "Nibble AI" tutor for conversational food questions — all via an Expo React Native client with Firebase persistence and an LLM-backed content engine.</p>
+## Term 4: 🍽️ [Nerdy Nibbles](https://github.com/AnemiB/Nerdy-Nibbles) 🍽️
+- **Description:**  
+  Nerdy Nibbles is an AI-first mobile app for food literacy. It delivers on-demand, regeneratable lessons and quizzes generated by an LLM and includes a built-in chat tutor (“Nibble AI”) for real-time food questions.
 
-</br>
-
-- **Problem Statement:**
-  <p>Learners searching for reliable food knowledge face scattered sources and repetitive content that doesn't adapt to their needs. Nerdy Nibbles addresses this with dynamically generated lessons and quizzes plus an on-demand AI tutor so users get personalized explanations and practice that match their pace and interests.</p>
-
-</br>
+- **Problem Statement:**  
+  Food knowledge is scattered and often static. Learners want short, practical, personalised lessons and immediate answers. Nerdy Nibbles uses AI to generate fresh lesson content and quizzes on each access, plus a chat tutor for clarifications.
 
 - **Highlights:**
-  <ul>
-    <li><strong>AI-driven lessons & quizzes:</strong> Regeneratable content so each session offers fresh phrasing and examples.</li>
-    <li><strong>Nibble AI chat tutor:</strong> Domain-focused conversational assistant for nutrition, food safety and cooking techniques.</li>
-    <li><strong>Progress tracking:</strong> Firestore-backed user progress and quiz results for learning analytics.</li>
-    <li><strong>Secure architecture:</strong> Prompts & model calls routed via a backend recommended to avoid exposing API keys.</li>
-    <li><strong>Cross-platform:</strong> Expo-powered mobile app for quick iteration on Android & iOS.</li>
-  </ul>
+  - AI-driven lesson & quiz generation (regeneratable content).  
+  - Nibble AI chat for nutrition, food safety and cooking technique questions.  
+  - Progress tracking in Firestore and a mobile-first, low-friction UX (Expo).
+
 </br>
 
-
 ---
+
 <div align="center">
   
 ## 🦎 Skills and Technologies 🦎
 
 ### **Front-End Development**
-**Languages & Frameworks:** HTML, CSS, JavaScript, React, React-Bootstrap  
-**Tools for Data Visualization:** Chart.js, Axios, and React Chart.js
+**Languages & Frameworks:** HTML, CSS, JavaScript, React, React-Bootstrap, React Native (Expo)  
+**Tools for Data Visualization:** Chart.js, Axios
 
 ### **Back-End Development**
-**Languages & Frameworks:** Node.js, Express, PHP, MySQL  
-**Database Management:** MongoDB, MySQL
+**Languages & Frameworks:** Node.js, Express, .NET Core (C#), PostgreSQL  
+**Database Management:** MongoDB, MySQL, PostgreSQL
 
 ### **Development Tools**
-**Platform:** XAMPP (Apache, PHP, MySQL for local development)
+**Platform:** XAMPP (Apache, PHP, MySQL for local development), Firebase, Aiven
 
 </div>
 
