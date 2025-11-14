@@ -1,4 +1,4 @@
-<div align="center">
+<img width="2906" height="2032" alt="image" src="https://github.com/user-attachments/assets/50b2b937-d63f-41f1-ac1b-747d2e134a36" /><div align="center">
   
 # 🌺 Hi there! I’m Anemi Breytenbach 🌺
 
@@ -43,7 +43,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 </div>
 
-![Free_iMac_Mockup_4](https://github.com/user-attachments/assets/acb0d902-1ea1-42c7-9656-d62919f0bb85)
+<img width="2906" height="2032" alt="image" src="https://github.com/user-attachments/assets/ed6196dd-1dad-4560-9a3b-4604e8921130" />
 
 ## Term 1: 🌟 [Aureum Elegance](https://github.com/Tsebo200/Aureum-Elegance-Frontend) 🌟
 - **Description:**  
@@ -63,16 +63,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ---
 
-![Free_iMac_Mockup_11](https://github.com/user-attachments/assets/5e3578a0-fa77-46ce-a53c-41aacba7c8f6)
-
-## Term 2: 🔸 (No project assigned)
-- **Note:** Term 2 currently has no project listed for this profile — I left this slot intentionally so your term numbering remains consistent with your course structure. If you want to add another project here, I’ll slot it in the same format as the others.
-
-</br>
-
----
-
-![Free_iMac_Mockup_3](https://github.com/user-attachments/assets/2350c991-4585-4d83-aabc-df86247660a6)
+<img width="4414" height="4257" alt="image" src="https://github.com/user-attachments/assets/0b586a85-17fe-4302-be8f-a4864c785129" />
 
 ## Term 3: 🫗 [SipStop](https://github.com/AnemiB/SipStop) 🫗
 - **Description:**  
@@ -91,7 +82,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 ---
 
-![iMac_Mockup_1](https://github.com/user-attachments/assets/c7f6f0a3-47fb-4324-8e4c-37e667fa3383)
+<img width="4414" height="4257" alt="image" src="https://github.com/user-attachments/assets/61ef1029-768e-4447-9f96-96ce087b4798" />
 
 ## Term 4: 🍽️ [Nerdy Nibbles](https://github.com/AnemiB/Nerdy-Nibbles) 🍽️
 - **Description:**  
