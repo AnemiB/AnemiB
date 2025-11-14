@@ -45,7 +45,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 
 <img width="2906" height="2032" alt="image" src="https://github.com/user-attachments/assets/ed6196dd-1dad-4560-9a3b-4604e8921130" />
 
-## Term 1: 🌟 [Aureum Elegance](https://github.com/Tsebo200/Aureum-Elegance-Frontend) 🌟
+## Semester 1 (Term 1 & 2): 🌟 [Aureum Elegance](https://github.com/Tsebo200/Aureum-Elegance-Frontend) 🌟
 - **Description:**  
   Aureum Elegance is a full-stack warehouse management system tailored for the perfume industry. It centralises inventory, batch tracking, production workflows and analytics into a polished desktop/web app.
 
