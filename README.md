@@ -136,7 +136,7 @@ When I’m not working on a new project, I’m likely finding inspiration in a g
 ![.NET](https://img.shields.io/badge/.NET-.NET_Core-9cf)
 
 ## 📬 Contact
-- Email: `<anemibreytenbach@gmail.com`  
+- Email: `anemibreytenbach@gmail.com`  
 - LinkedIn: `https://www.linkedin.com/in/anemi-breytenbach-ab9842364/`  
 - GitHub: `https://github.com/AnemiB`
 
