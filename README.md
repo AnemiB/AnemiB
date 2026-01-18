@@ -3,7 +3,7 @@
 # 🌺 Hi there! I’m Anemi Breytenbach 🌺
 
 </br>
-##For my UX work, please look [here].(https://www.behance.net/anemibreyten1) for my UX portfolio
+##For my UX work, check out my portfolio **[here](https://www.behance.net/anemibreyten1)**.
 
 </div>
 
