@@ -3,8 +3,12 @@
 # 🌺 Hi there! I’m Anemi Breytenbach 🌺
 
 </br>
-## For my UX work, check out my portfolio  
-**[View my Behance portfolio](https://www.behance.net/anemibreyten1)**
+  <h2>For my UX work, check out my portfolio</h2>
+  <p><strong>
+    <a href="https://www.behance.net/anemibreyten1" target="_blank">
+      View my Behance portfolio
+    </a>
+  </strong></p>
 
 </div>
 
