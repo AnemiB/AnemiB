@@ -4,9 +4,14 @@
 
 </br>
   <h2>For my UX work, check out my portfolio</h2>
+   <p><strong>
+    <a href="https://drive.google.com/file/d/1tTy9OXRIaM9Wo4RDudXPVPoshCYe1QHk/view?usp=sharing" target="_blank">
+      View my work portfolio presentation.
+    </a>
+  </strong></p>
   <p><strong>
     <a href="https://www.behance.net/anemibreyten1" target="_blank">
-      View my Behance portfolio
+      View my Behance portfolio for student work.
     </a>
   </strong></p>
 
